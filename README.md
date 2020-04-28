@@ -40,7 +40,14 @@ This field is more utilitarian than something you really need to see each time. 
 
 If you have additional information you want to include about a card but don't want it on the front, put it here.
 
-Due to the [Minimum Information Principle](https://supermemo.guru/wiki/Minimum_information_principle), you want to keep your cards _as simple as possible_  - strive to eliminate any extra clauses, adverbs, etc, and put extra information in the extra fields.
+Due to the [Minimum Information Principle](https://supermemo.guru/wiki/Minimum_information_principle), you want to keep your cards _as simple as possible_  - strive to eliminate any extra clauses, adverbs, etc, and **put extra information in the extra fields**.
+
+For example,
+
+* Elaboration on the topic
+* Examples of the topic
+* Clarification of terms
+* Readings for Japanese Kanji
 
 These fields are displayed below the answer field.  They are in small font since they are less important than the answer, itself.
 
