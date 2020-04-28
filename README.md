@@ -5,7 +5,21 @@ I am pretty happy with the layouts that I've come up with for my Anki cards. Oth
 
 They are a work in progress.
 
-_All cards use the same CSS._
+**All cards use the same CSS.**
+
+## Examples
+
+### Example with Image
+
+![example-with-image](example-with-image.png?raw=true "Example with Image")
+
+### Example with Hint
+
+![example-with-hint](example-with-hint.png?raw=true "Example with Hint")
+
+### Example with Extra
+
+![example-with-extra](example-with-extra.png?raw=true "Example with Extra")
 
 ## Fields
 
