@@ -27,6 +27,10 @@ hr {
   font-size: 12px;
 }
 
+.hint {
+  font-size: 12px;
+}
+
 .image {
   width: 50%;
   display: block;
