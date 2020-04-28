@@ -9,7 +9,7 @@ They are a work in progress.
 
 ## Examples
 
-### Example with Image
+### Example Reverse Card with Image
 
 ![example-with-image](example-with-image.png?raw=true "Example with Image")
 
@@ -17,9 +17,13 @@ They are a work in progress.
 
 ![example-with-hint](example-with-hint.png?raw=true "Example with Hint")
 
+Note, you click the hint to display it.
+
 ### Example with Extra
 
 ![example-with-extra](example-with-extra.png?raw=true "Example with Extra")
+
+Shows how I use the extra fields to display kanji readings.
 
 ## Fields
 
