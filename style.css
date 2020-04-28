@@ -1,5 +1,5 @@
 a {
-  font-style: none;
+  font-style: normal;
 }
 
 hr {
@@ -7,12 +7,12 @@ hr {
 }
 
 .card {
- font-family: "Roboto Mono", "Courier New", Menlo;
- font-weight: 100;
- font-size: 20px;
- text-align: center;
- color: green;
- background-color: black;
+  font-family: "Roboto Mono", "Courier New", Menlo;
+  font-weight: 100;
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: black;
 }
 
 .audio {
@@ -23,8 +23,11 @@ hr {
   font-size: 12px;
 }
 
-.hint {
-  font-size: 12px;
+.image {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .source {
