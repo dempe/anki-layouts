@@ -1,0 +1,38 @@
+a {
+  font-style: none;
+}
+
+hr {
+  width: 50%;
+}
+
+.card {
+ font-family: "Roboto Mono", "Courier New", Menlo;
+ font-weight: 100;
+ font-size: 20px;
+ text-align: center;
+ color: green;
+ background-color: black;
+}
+
+.audio {
+  display: none;
+}
+
+.extra {
+  font-size: 12px;
+}
+
+.hint {
+  font-size: 12px;
+}
+
+.source {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.topic {
+  font-size: 16px;
+  color: #aaaaaa;
+}
