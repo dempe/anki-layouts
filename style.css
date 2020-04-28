@@ -6,6 +6,10 @@ hr {
   width: 50%;
 }
 
+.audio {
+  display: none;
+}
+
 .card {
   font-family: "Roboto Mono", "Courier New", Menlo;
   font-weight: 100;
@@ -13,10 +17,6 @@ hr {
   text-align: center;
   color: #ffffff;
   background-color: black;
-}
-
-.audio {
-  display: none;
 }
 
 .cloze {
