@@ -1,9 +1,11 @@
 # anki-layouts
 HTML and CSS for my Anki notes.
 
-I am pretty happy with the layouts that I've come up with for my Anki cards. Others have expressed similar approval, so I figured I would share them in a repo.
+I am pretty happy with the layouts that I've come up with for my Anki cards. Others have expressed similar approval, so I figured I would share them (and back them up) in a repo.
 
 They are a work in progress.
+
+_All cards use the same CSS._
 
 ## Fields
 
