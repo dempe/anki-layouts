@@ -91,4 +91,4 @@ I rarely use this field. If your card is too difficult, try to simplify it by re
 
 ## Usage
 
-Copy and paste into Anki? 😅 And make the cards with the requisite fields.
+Import the included [sample deck](sample-deck.apkg) into Anki. This contains the three card types - basic, reversed, and cloze, and will give you the corresponding styles. (Note they are prefaced with "0-" to make them easier to find in the list).
