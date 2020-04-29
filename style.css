@@ -2,11 +2,6 @@ a {
   font-style: normal;
 }
 
-html {
-  /* Make scrollbar always visible in order to prevent shift when revealing answer. */
-  overflow-y: scroll;
-}
-
 hr {
   width: 50%;
 }
