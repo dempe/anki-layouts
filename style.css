@@ -10,7 +10,8 @@ li {
   text-align: left;
 }
 
-ol, ul {
+/* The Miniformat Pack addon surrounds lists with <p>, so need to style these accordingly
+ol, ul, p {
   width: 50%;
   display: block;
   margin-left: auto;
