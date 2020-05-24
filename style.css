@@ -10,7 +10,6 @@ li {
   text-align: left;
 }
 
-/* The Miniformat Pack addon surrounds lists with <p>, so need to style these accordingly
 ol, ul, p {
   width: 50%;
   display: block;
@@ -18,14 +17,19 @@ ol, ul, p {
   margin-right: auto;
 }
 
-.audio {
-  display: none;
+#answer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.back {
+  margin-bottom: 40px;
 }
 
 .card {
   font-family: "Roboto Mono", "Courier New", Menlo;
   font-weight: 100;
-  font-size: 20px;
+  font-size: 24px;
   text-align: center;
   color: #ffffff;
   background-color: black;
@@ -37,10 +41,13 @@ ol, ul, p {
 
 .extra {
   font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 30px;
 }
 
 .hint {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .image {
@@ -48,14 +55,18 @@ ol, ul, p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .source {
   font-size: 12px;
   font-style: italic;
+  margin-top: 20px;
 }
 
 .topic {
   font-size: 16px;
   color: #aaaaaa;
+  margin-bottom: 20px;
 }
