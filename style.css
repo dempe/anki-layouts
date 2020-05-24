@@ -43,7 +43,8 @@ ol, ul, p {
   font-size: 12px;
   margin-top: 20px;
   margin-bottom: 20px;
-  height: 30px;
+  min-height: 30px;
+  height: auto;
 }
 
 .hint {
