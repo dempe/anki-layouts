@@ -1,24 +1,11 @@
-{{FrontSide}}
+<div class="topic">{{Topic}}</div>
+<div display-type="coloredkanjireading" class="wrapped-japanese">{{Back}}</div>
 
-<!-- Not using "id=answer" as that causes Anki to move this <hr> block to the top of the screen (if the card is long enough). -->
-<!-- This makes it so that you can't see the front of the card after it's answered. -->
-<hr/>
-
+<hr id="answer"/>
+<div display-type="coloredkanjireading" class="wrapped-japanese">{{Front}}</div>
+<div class="extra">{{furigana:Extra1}}</div>
+<div class="extra">{{furigana:Extra2}}</div>
+<div class="extra">{{furigana:Extra3}}</div>
 <div class="audio">{{Audio}}</div>
-{{Front}}
-
-<br/>
-<br/>
-<div class="extra">{{Extra1}}</div>
-<br/>
-<div class="extra">{{Extra2}}</div>
-<br/>
-<div class="extra">{{Extra3}}</div>
-
-<br/>
-<br/>
 <div class="image">{{Image}}</div>
-
-<br/>
-<br/>
 <div class="source">{{Source}}</div>
